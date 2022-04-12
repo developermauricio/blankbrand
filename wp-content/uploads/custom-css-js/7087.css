@@ -1,0 +1,92 @@
+<!-- start Simple Custom CSS and JS -->
+<style type="text/css">
+/* Añade aquí tu código CSS.
+
+Por ejemplo:
+.ejemplo {
+    color: red;
+}
+
+Para mejorar tu conocimiento sobre CSS knowledge echa un vistazo a http://www.w3schools.com/css/css_syntax.asp
+
+Fin del comentario */ 
+.wd-nav.wd-style-underline .nav-link-text:after{
+  background-color: transparent !important;
+}
+#menu-menu-principal .nav-link-text{
+  text-transform: capitalize !important;
+  font-size: 1rem;
+  color: #ffffff !important
+}
+#menu-menu-principal .woodmart-nav-link{
+  padding-right: 1.5rem !important
+}
+
+.title-footer-navegation{
+  margin-bottom: 0.4rem !important
+}
+
+.list-menu-footer li{
+  list-style:none !important;
+  margin-bottom: 0px !important;
+}
+
+.list-menu-footer ul{
+  padding-left: 0px !important
+}
+
+.title-after_title{
+  text-align:justify !important
+}
+
+.btn-send-mcwp{
+  background-color: #606060 !important;
+  text-transform: capitalize !important;
+  font-size: 1rem !important
+}
+.btn-send-mcwp:hover{
+  background-color: #E2E2E2 !important;
+  color: #606060 !important
+}
+
+input[type=email].input-mcwp{
+  background-color: #e7e7e7 !important
+}
+
+.colum-mwcp .vc_column-inner{
+  padding-top: 0px !important
+}
+
+.social-icons-footer ul{
+  display:flex !important;
+  list-style-type: none !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  overflow: hidden !important;
+  justify-content: end !important;
+}
+
+.social-icons-footer li {
+  float: left !important;
+  padding-right: 1rem !important
+}
+
+.social-icons-footer li a{
+  display: block !important;
+  color: white !important;
+  text-align: center !important;
+  padding: 10px !important;
+  text-decoration: none !important;
+}
+
+.social-icons-footer li a img{
+  width: 2rem !important
+}
+
+.copyrights-two-columns{
+  display: none !important
+}
+
+
+</style>
+<!-- end Simple Custom CSS and JS -->
